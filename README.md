@@ -2,7 +2,7 @@
 
 ## Documentacion
 
-La documentacion de la solucion para los laboratorios 1 y 2 puede ser encontrada en: [Reto1&2](https://github.com/jpgomezt/UD3-Labs/blob/master/Reto1%262.pdf)
+La documentacion de la solucion para los laboratorios 1 y 2 puede ser encontrada en: [Reto1&2](https://github.com/jpgomezt/UD3-Labs/blob/master/Reto1%262.pdf) (Recomiendo descargarlo para lectura correcta)
 
 ## S3 URI
 
